@@ -43,4 +43,4 @@ energy_dashboard/
 - API RTE eCO2mix (https://www.rte-france.com/eco2mix)
 
 ## 👤 Auteur
-Étudiant L3 Mathématiques-Informatiques - Recherche stage domaine de l'énergie
+Étudiant M1 mathématiques appliquées - Recherche stage domaine de l'énergie
