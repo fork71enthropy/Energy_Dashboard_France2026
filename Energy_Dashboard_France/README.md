@@ -24,7 +24,17 @@ Projet réalisé dans le cadre d'une recherche de stage , démontrant :
 - **Tâches asynchrones** : Celery + Redis
 - **Cache** : Django cache (stockage temporaire 15min, pas de Celery pour MVP pour les tâches aynchrones)
 
-
+## 📁 Structure du projet
+```
+energy_dashboard/
+├── config/              # Configuration Django
+├── apps/
+│   ├── core/           # Modèles de base et utilitaires
+│   ├── data_collection/# Récupération données RTE
+│   ├── analytics/      # Analyses et calculs
+│   └── dashboard/      # API REST et vues
+└── frontend/           # Application frontend
+```
 
 
 ## Vue d'ensemble du projet avec tous ses fichiers 
