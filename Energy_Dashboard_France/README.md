@@ -37,7 +37,7 @@ energy_dashboard/
 ```
 
 
-## Vue d'ensemble du projet avec tous ses fichiers 
+## Vue d'ensemble du projet 
 ```
 energy_dashboard/
 ├── README.md                          # ✅ Vue d'ensemble (celui que tu as déjà)
