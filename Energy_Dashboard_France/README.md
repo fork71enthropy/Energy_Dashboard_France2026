@@ -36,20 +36,6 @@ energy_dashboard/
 └── frontend/           # Application frontend
 ```
 
-## 🔧 Installation
-[À compléter après]
-
-## 📈 Fonctionnalités
-- [ ] Mix énergétique temps réel
-- [ ] Historique de production par source
-- [ ] Estimation émissions CO2
-- [ ] Prévisions de consommation
-
-## 📚 Sources de données
-- API RTE eCO2mix (https://www.rte-france.com/eco2mix)
-
-## 👤 Auteur
-Étudiant M1 mathématiques appliquées - Recherche stage domaine de l'énergie
 
 ## Vue d'ensemble du projet avec tous ses fichiers 
 ```
@@ -96,3 +82,20 @@ energy_dashboard/
 └── frontend/
     └── README.md                      # Setup React/Vue, composants, API calls
 ```
+
+
+
+## 🔧 Installation
+[À compléter après]
+
+## 📈 Fonctionnalités
+- [ ] Mix énergétique temps réel
+- [ ] Historique de production par source
+- [ ] Estimation émissions CO2
+- [ ] Prévisions de consommation
+
+## 📚 Sources de données
+- API RTE eCO2mix (https://www.rte-france.com/eco2mix)
+
+## 👤 Auteur
+Étudiant M1 mathématiques appliquées - Recherche stage domaine de l'énergie
