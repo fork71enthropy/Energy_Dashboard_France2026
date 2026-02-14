@@ -50,3 +50,49 @@ energy_dashboard/
 
 ## 👤 Auteur
 Étudiant M1 mathématiques appliquées - Recherche stage domaine de l'énergie
+
+## Vue d'ensemble du projet avec tous ses fichiers 
+```
+energy_dashboard/
+├── README.md                          # ✅ Vue d'ensemble (celui que tu as déjà)
+│
+├── docs/
+│   ├── README.md                      # Index de toute la documentation
+│   ├── installation.md                # Setup complet (PostgreSQL, TimescaleDB, Redis)
+│   ├── architecture.md                # Schéma technique + choix techno
+│   ├── api.md                         # Documentation endpoints API REST
+│   ├── rte-api-integration.md         # Intégration API RTE eCO2mix
+│   └── deployment.md                  # Guide déploiement production
+│
+├── config/
+│   └── settings.py
+│
+├── apps/
+│   ├── README.md                      # Vue d'ensemble des 4 apps + interactions
+│   │
+│   ├── core/
+│   │   ├── README.md                  # Modèles de base, utilitaires partagés
+│   │   ├── models.py
+│   │   └── utils.py
+│   │
+│   ├── data_collection/
+│   │   ├── README.md                  # Récup API RTE, cache 15min, scheduling
+│   │   ├── models.py                  # Stockage données brutes
+│   │   ├── services.py                # Logique appel API RTE
+│   │   └── tasks.py                   # Tâches planifiées (si ajout Celery)
+│   │
+│   ├── analytics/
+│   │   ├── README.md                  # Calculs CO2, agrégations, trends
+│   │   ├── models.py                  # Résultats d'analyse
+│   │   ├── services.py                # Algorithmes d'analyse
+│   │   └── calculations.py            # Formules CO2, mix énergétique
+│   │
+│   └── dashboard/
+│       ├── README.md                  # Endpoints API REST, serializers
+│       ├── views.py                   # API REST DRF
+│       ├── serializers.py
+│       └── urls.py
+│
+└── frontend/
+    └── README.md                      # Setup React/Vue, composants, API calls
+```
