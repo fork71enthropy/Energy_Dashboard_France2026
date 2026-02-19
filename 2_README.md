@@ -167,5 +167,5 @@ energy_quant/
 
 ## Auteur
 
-Étudiant L3 Mathématiques-Informatique — Candidat Master Mathématiques Appliquées  
+Candidat Master Mathématiques Appliquées  
 Recherche stage Finance de l'Énergie / Modélisation Quantitative
