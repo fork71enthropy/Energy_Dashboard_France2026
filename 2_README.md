@@ -1,7 +1,7 @@
 # Modélisation Stochastique et Pricing de Risque sur les Marchés Électriques Français
 
 > Projet quantitatif junior — Recherche de stage en finance de l'énergie  
-> Étudiant L3 Mathématiques-Informatique | Candidat Master Mathématiques Appliquées
+> Candidat Master Mathématiques Appliquées
 
 ---
 
