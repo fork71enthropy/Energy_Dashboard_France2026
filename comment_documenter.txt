@@ -3,3 +3,5 @@ Comment bien documenter un projet django ?
 1)un readme principal, un readme qui résume toutes les apps et un readme pour 
 chaque app ou chaque dossier
 2)je viens d'apprendre qu'on ne commit jamais un fichier db.sqlite3 car c'est une base de données locale
+
+
